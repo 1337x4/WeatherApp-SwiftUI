@@ -2,8 +2,6 @@
 //  ContentView.swift
 //  TestApp
 //
-//  Created by khalid on 11/08/2022.
-//
 
 import SwiftUI
 
